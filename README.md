@@ -2,8 +2,7 @@
 
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am ALI! A Master Student, Machine Learning freelancer and Robotics
-enthusiast.
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am ALI! Master Student, Machine Learning freelancer and Robotics enthusiast.
 </h3> 
 
 <p align="center">   
