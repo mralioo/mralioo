@@ -38,17 +38,17 @@
 
 
 <p align="center">
-    <a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
-    <a href="https://github.com/milaan9?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-    <a href="https://github.com/milaan9/09_Python_NumPy_Module" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/milaan9/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
-    <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>    
-    <a href="https://github.com/milaan9?tab=repositories&language=AWS" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=pytorch" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a> 
+    <a  target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <!--<a htarget="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
+    <a  target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+    <a  target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+    <a  target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
+    <a  target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>    
+    <a  target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    <a  target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+    <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a  target="_blank"><img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a> 
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 
 <div align="center">
