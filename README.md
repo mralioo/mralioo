@@ -17,8 +17,8 @@
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
     <tr><td> :saudi_arabia: Arabic ★★★</a></td></tr>
-    <tr><td> :gb: English ★★☆</a></td></tr>
-    <tr><td> :de: German ★★☆</a></td></tr>
+    <tr><td> :gb: English ★★★</a></td></tr>
+    <tr><td> :de: German ★★★</a></td></tr>
     <tr><td> :fr: French ★★☆</a></td></tr>
 </table>
 
