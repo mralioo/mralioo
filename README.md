@@ -12,14 +12,6 @@
     <img alt="Skype" src="https://img.shields.io/badge/Ali.Alouane_3-00aff0?style=flat-square&logo=skype&logoColor=white">
 </p>
 
-<table align="right">
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</td></tr>
-    <tr><td> :de: German ★★★</td></tr>
-    <tr><td> :gb: English ★★★</td></tr>
-    <tr><td> :saudi_arabia: Arabic ★★★</td></tr>
-    <tr><td> :fr: French ★★☆</td></tr>
-</table>
-
 ##### CURRENTLY
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Working as a Freelance Machine Learning Engineer
 
