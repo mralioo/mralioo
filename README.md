@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hi, I'm Ali! A Master's Student, Machine Learning Freelancer, and Robotics Enthusiast.
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hi, I'm Ali! A Machine Learning Engineer and Robotics Enthusiast.
 </h3> 
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 ##### CURRENTLY
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Working as a Freelance Machine Learning Engineer
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Working as a Machine Learning Engineer
 
 #### A Bit About Me:
 
